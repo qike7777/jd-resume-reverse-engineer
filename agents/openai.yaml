@@ -1,0 +1,5 @@
+interface:
+  display_name: "JD Resume Reverse Engineer"
+  short_description: "Reverse JD into resume keywords and screening logic"
+  default_prompt: "Use $jd-resume-reverse-engineer to turn this JD into screening logic, a keyword library, resume module guidance, and evidence gaps."
+
